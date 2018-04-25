@@ -1,2 +1,5 @@
 # hello-world
-a beginning!!!
+
+Hi Humans!
+
+Jingyi here~ (a newbie
